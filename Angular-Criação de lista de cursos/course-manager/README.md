@@ -11,5 +11,4 @@ Projeto envolve:
 #Requisição HTTP
 #Tratamento de erros com Angular.
 
-Imagem da aplicação 
-Imagem do projeto.
+![Image-projeto](https://user-images.githubusercontent.com/77215009/131208251-0ce0340a-b06b-4f4d-bdd1-5643f3e65df7.jpg)
